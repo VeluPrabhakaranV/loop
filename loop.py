@@ -1,5 +1,6 @@
-#python program prints untill the statements gets satisfied
-i=1
-while i<10:
-    print(i)
-    i+=1
+#while loop
+
+i=1 #value is aasigned
+while i<10: #checks whether the value is less than 10
+    print(i) #prints the value
+    i+=1 #the value is increased by one
